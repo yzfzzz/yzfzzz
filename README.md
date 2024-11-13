@@ -3,8 +3,11 @@
 
 - 📝 I regularly write articles on [https://blog.csdn.net/henghuizan2771](https://blog.csdn.net/henghuizan2771)
 
+- 📄 Know about my experiences [https://space.bilibili.com/517357927](https://space.bilibili.com/517357927)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/yzfzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yzfzzz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,4 +16,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yzfzzz&show_icons=true&locale=en&layout=compact" alt="yzfzzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yzfzzz&show_icons=true&locale=en" alt="yzfzzz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yzfzzz&" alt="yzfzzz" /></p>
+
 
