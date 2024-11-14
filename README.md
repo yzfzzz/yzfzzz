@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm yzfzzz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzfzzz&label=Profile%20views&color=0e75b6&style=plastic" alt="yzfzzz" /> </p>
+- 🙇‍♂️ I’m currently working on [GMPanel](https://github.com/yzfzzz/linux-monitor)
 
 - 📝 I regularly write articles on [CSDN](https://blog.csdn.net/henghuizan2771)
 
