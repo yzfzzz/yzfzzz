@@ -3,9 +3,9 @@
 
 - 🙇‍♂️ I’m currently working on [GMPanel](https://github.com/yzfzzz/linux-monitor)
 
-- 📝 I regularly write articles on [https://blog.csdn.net/henghuizan2771](https://blog.csdn.net/henghuizan2771)
+- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/henghuizan2771)
 
-- 📺 My tutorials are posted on [https://space.bilibili.com/517357927](https://space.bilibili.com/517357927)
+- 📺 My tutorials are posted on [bilibili](https://space.bilibili.com/517357927)
 
 
 <h3 align="left">Languages and Tools:</h3>
