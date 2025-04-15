@@ -3,8 +3,6 @@
 
 - 🙇‍♂️ I’m currently working on [GMPanel](https://github.com/yzfzzz/linux-monitor)
 
-- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/henghuizan2771)
-
 - 📺 My tutorials are posted on [bilibili](https://space.bilibili.com/517357927)
 
 
