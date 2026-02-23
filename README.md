@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzfzzz&label=Profile%20views&color=0e75b6&style=plastic" alt="yzfzzz" /> </p>
 - 😀 I used to be an intern in Lenovo and NIO
 
-- 🙇‍♂️ I’m currently working on [GMPanel](https://github.com/yzfzzz/GMPanel)
-
 - 🤖 My tutorials are posted on [bilibili](https://space.bilibili.com/517357927)
 
 
