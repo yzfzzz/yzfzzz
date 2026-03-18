@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzfzzz&label=Profile%20views&color=0e75b6&style=plastic" alt="yzfzzz" /> </p>
 😀 I used to be an intern in Lenovo and NIO. My tutorials are posted on https://space.bilibili.com/517357927. 
 
-- Looking for a job online ╥﹏╥
+😭 **Looking for a job online ╥﹏╥**
 
 
 <h3 align="left">Languages and Tools:</h3>
