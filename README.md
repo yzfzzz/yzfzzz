@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm yzfzzz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzfzzz&label=Profile%20views&color=0e75b6&style=plastic" alt="yzfzzz" /> </p>
-😀 My tutorials are posted on https://space.bilibili.com/517357927. 
+😀 项目相关教程发布在: https://space.bilibili.com/517357927. 
 
-😭 **Looking for a job online ╥﹏╥**
+😭 **27届校招生在线找工作 ╥﹏╥**
 
 
 <h3 align="left">Languages and Tools:</h3>
