@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yzfzzz&label=Profile%20views&color=0e75b6&style=plastic" alt="yzfzzz" /> </p>
 😀 项目相关教程发布在: https://space.bilibili.com/517357927. 
 
-😭 **27届校招生在线找工作 ╥﹏╥**
+😭 **27届校招生在线找工作 ╥﹏╥ 欢迎用人团队、HR联系我🖐**
 
 
 <h3 align="left">Languages and Tools:</h3>
